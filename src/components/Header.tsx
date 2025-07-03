@@ -25,7 +25,7 @@ const Header: React.FC = () => {
           <div className="flex items-center space-x-3">
             <div className="flex items-center space-x-2">
               <Sparkles className="h-8 w-8 text-yellow-300" />
-              <h1 className="text-2xl font-bold">VENBA AI</h1>
+              <h1 className="text-2xl font-bold">Venba AI</h1>
             </div>
             <div className="hidden sm:block text-sm text-blue-100">
               Powered by Puter.com
